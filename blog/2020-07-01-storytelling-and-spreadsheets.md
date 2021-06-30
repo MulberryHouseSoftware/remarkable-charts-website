@@ -1,5 +1,5 @@
 ---
-id: storytelling-and-spreadsheets
+slug: storytelling-and-spreadsheets
 title: "Storytelling and spreadsheets"
 author: John Walley
 author_title: CEO @ Mulberry House Software

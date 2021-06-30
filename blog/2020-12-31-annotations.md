@@ -1,5 +1,5 @@
 ---
-id: annotations
+slug: annotations
 title: "Annotations"
 author: John Walley
 author_title: CEO @ Mulberry House Software

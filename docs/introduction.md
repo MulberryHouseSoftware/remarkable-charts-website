@@ -1,6 +1,7 @@
 ---
-id: introduction
+slug: /
 title: Introduction
+sidebar_position: 1
 ---
 
 Remarkable charts helps you create beautiful charts with Excel.

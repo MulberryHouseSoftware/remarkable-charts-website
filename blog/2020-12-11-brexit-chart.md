@@ -1,5 +1,5 @@
 ---
-id: brexit-charts
+slug: brexit-charts
 title: "Brexit Charts"
 author: John Walley
 author_title: CEO @ Mulberry House Software

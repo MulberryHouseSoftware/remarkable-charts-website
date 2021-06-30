@@ -1,5 +1,5 @@
 ---
-id: coronavirus-charts
+slug: coronavirus-charts
 title: Coronavirus Charts
 author: John Walley
 author_title: CEO @ Mulberry House Software

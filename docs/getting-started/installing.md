@@ -1,7 +1,7 @@
 ---
 id: installing
 title: Installing Remarkable Charts
-sidebar_label: Installing Remarkable Charts
+sidebar_position: 1
 ---
 
 ## Install from Microsoft AppSource

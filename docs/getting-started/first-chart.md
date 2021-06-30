@@ -1,6 +1,7 @@
 ---
 id: first-chart
 title: Creating your first chart
+sidebar_position: 2
 ---
 
 import useBaseUrl from '@docusaurus/useBaseUrl';

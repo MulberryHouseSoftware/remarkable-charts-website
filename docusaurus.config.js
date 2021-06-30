@@ -114,15 +114,9 @@ module.exports = {
   ],
   presets: [
     [
-      require.resolve("@docusaurus/preset-classic"),
+      "@docusaurus/preset-classic",
       {
         docs: {
-          path: "docs",
-          routeBasePath: "docs",
-          editUrl:
-            "https://github.com/MulberryHouseSoftware/remarkable-charts-website/edit/master/",
-          homePageId: "introduction",
-          include: ["**/*.md", "**/*.mdx"],
           sidebarPath: require.resolve("./sidebars.js"),
         },
         theme: {
