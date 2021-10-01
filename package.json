@@ -13,7 +13,7 @@
     "deploy": "cross-env DEBUG=* netlify deploy --prod"
   },
   "dependencies": {
-    "@docusaurus/core": "^2.0.0-beta.2",
+    "@docusaurus/core": "^2.0.0-beta.6",
     "@docusaurus/plugin-ideal-image": "2.0.0-beta.2",
     "@docusaurus/preset-classic": "2.0.0-beta.2",
     "@fluentui/react": "^7.154.0",
